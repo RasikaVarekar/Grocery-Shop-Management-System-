@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Grocery management System\Grocery management System\bin\Debug\Grocery management System.exe.config
+C:\Users\Admin\source\repos\Grocery management System\Grocery management System\bin\Debug\Grocery management System.exe
+C:\Users\Admin\source\repos\Grocery management System\Grocery management System\bin\Debug\Grocery management System.pdb
+C:\Users\Admin\source\repos\Grocery management System\Grocery management System\obj\Debug\Grocery management System.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Grocery management System\Grocery management System\obj\Debug\Grocery_management_System.Billing.resources
+C:\Users\Admin\source\repos\Grocery management System\Grocery management System\obj\Debug\Grocery_management_System.Employees.resources
+C:\Users\Admin\source\repos\Grocery management System\Grocery management System\obj\Debug\Grocery_management_System.Items.resources
+C:\Users\Admin\source\repos\Grocery management System\Grocery management System\obj\Debug\Grocery_management_System.Login.resources
+C:\Users\Admin\source\repos\Grocery management System\Grocery management System\obj\Debug\Grocery_management_System.Splash.resources
+C:\Users\Admin\source\repos\Grocery management System\Grocery management System\obj\Debug\Grocery_management_System.Properties.Resources.resources
+C:\Users\Admin\source\repos\Grocery management System\Grocery management System\obj\Debug\Grocery management System.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Grocery management System\Grocery management System\obj\Debug\Grocery management System.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Grocery management System\Grocery management System\obj\Debug\Grocery management System.exe
+C:\Users\Admin\source\repos\Grocery management System\Grocery management System\obj\Debug\Grocery management System.pdb
+C:\Users\Admin\source\repos\Grocery management System\Grocery management System\obj\Debug\Grocery_management_System.AdminLogin.resources
